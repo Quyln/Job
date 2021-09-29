@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "companyName": "Công ty điện tử TTI",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "350.000đ/Ngày"
+  },
+  {
+    "id": 2,
+    "companyName": "Công ty điện tử AMPACS",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "330.000đ/Ngày"
+  },
+  {
+      "id": 3,
+      "companyName": "Human Power, LTD",
+      "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+      "position": "Nhân viên tuyển dụng",
+      "location": "Bình Dương",
+      "responsibilities": "human",
+      "qualifications": "humanyc",
+      "salary": "400.000đ/Ngày"
+  },
+  {
+    "id": 7,
+    "companyName": "Công ty Sản Xuất Gấu Bông",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "350.000đ/Ngày"
+  },
+  {
+    "id": 8,
+    "companyName": "Công ty Chế Biến Thủy Sản",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "330.000đ/Ngày"
+  },
+  {
+      "id": 9,
+      "companyName": "Công ty Sản Xuất Hạt Đều",
+      "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+      "position": "Nhân viên tuyển dụng",
+      "location": "Hồ Chí Minh",
+      "responsibilities": "human",
+      "qualifications": "humanyc",
+      "salary": "400.000đ/Ngày"
+  }
+]
