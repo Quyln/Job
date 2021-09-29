@@ -30,7 +30,7 @@
       "salary": "400.000đ/Ngày"
   },
   {
-    "id": 7,
+    "id": 4,
     "companyName": "Công ty Sản Xuất Gấu Bông",
     "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
     "position": "Lao động phổ thông",
@@ -40,7 +40,7 @@
     "salary": "350.000đ/Ngày"
   },
   {
-    "id": 8,
+    "id": 5,
     "companyName": "Công ty Chế Biến Thủy Sản",
     "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
     "position": "Lao động phổ thông",
@@ -50,7 +50,17 @@
     "salary": "330.000đ/Ngày"
   },
   {
-      "id": 9,
+      "id": 7,
+      "companyName": "Công ty Sản Xuất Thực Phẩm",
+      "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+      "position": "Lao động phổ thông",
+      "location": "An Tây, Bình Dương",
+      "responsibilities": "toptonmt",
+      "qualifications": "toptonyc",
+      "salary": "230.000-374.000đ/Ngày"
+  },
+  {
+      "id": 7,
       "companyName": "Công ty Sản Xuất Hạt Đều",
       "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
       "position": "Nhân viên tuyển dụng",
