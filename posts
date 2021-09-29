@@ -1,290 +1,62 @@
 [
   {
-    "userId": 1,
     "id": 1,
-    "firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "companyName": "Công ty điện tử TTI",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "350.000đ/Ngày"
   },
   {
-    "userId": 1,
     "id": 2,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "companyName": "Công ty điện tử AMPACS",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "330.000đ/Ngày"
   },
   {
-    "userId": 1,
-    "id": 3,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+      "id": 3,
+      "companyName": "Human Power, LTD",
+      "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+      "position": "Nhân viên tuyển dụng",
+      "location": "Bình Dương",
+      "responsibilities": "human",
+      "qualifications": "humanyc",
+      "salary": "400.000đ/Ngày"
   },
   {
-    "userId": 1,
-    "id": 4,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-  },
-  {
-    "userId": 1,
-    "id": 6,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-  },
-  {
-    "userId": 1,
     "id": 7,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "magnam facilis autem",
-    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    "companyName": "Công ty Sản Xuất Gấu Bông",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "350.000đ/Ngày"
   },
   {
-    "userId": 1,
     "id": 8,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "dolorem dolore est ipsam",
-    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+    "companyName": "Công ty Chế Biến Thủy Sản",
+    "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+    "position": "Lao động phổ thông",
+    "location": "Bình Dương",
+    "responsibilities": "tti",
+    "qualifications": "ttiyc",
+    "salary": "330.000đ/Ngày"
   },
   {
-    "userId": 1,
-    "id": 9,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-  },
-  {
-    "userId": 1,
-    "id": 10,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "optio molestias id quia eum",
-    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-  },
-  {
-    "userId": 2,
-    "id": 11,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "et ea vero quia laudantium autem",
-    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
-  },
-  {
-    "userId": 2,
-    "id": 12,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "in quibusdam tempore odit est dolorem",
-    "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
-  },
-  {
-    "userId": 2,
-    "id": 13,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "dolorum ut in voluptas mollitia et saepe quo animi",
-    "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
-  },
-  {
-    "userId": 2,
-    "id": 14,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "voluptatem eligendi optio",
-    "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum"
-  },
-  {
-    "userId": 2,
-    "id": 15,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "eveniet quod temporibus",
-    "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
-  },
-  {
-    "userId": 2,
-    "id": 16,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
-    "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
-  },
-  {
-    "userId": 2,
-    "id": 17,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "fugit voluptas sed molestias voluptatem provident",
-    "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
-  },
-  {
-    "userId": 2,
-    "id": 18,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "voluptate et itaque vero tempora molestiae",
-    "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
-  },
-  {
-    "userId": 2,
-    "id": 19,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "adipisci placeat illum aut reiciendis qui",
-    "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
-  },
-  {
-    "userId": 2,
-    "id": 20,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "doloribus ad provident suscipit at",
-    "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
-  },
-  {
-    "userId": 3,
-    "id": 21,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "asperiores ea ipsam voluptatibus modi minima quia sint",
-    "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
-  },
-  {
-    "userId": 3,
-    "id": 22,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "dolor sint quo a velit explicabo quia nam",
-    "body": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse"
-  },
-  {
-    "userId": 3,
-    "id": 23,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "maxime id vitae nihil numquam",
-    "body": "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis"
-  },
-  {
-    "userId": 3,
-    "id": 24,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "autem hic labore sunt dolores incidunt",
-    "body": "enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt"
-  },
-  {
-    "userId": 3,
-    "id": 25,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "rem alias distinctio quo quis",
-    "body": "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio"
-  },
-  {
-    "userId": 3,
-    "id": 26,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "est et quae odit qui non",
-    "body": "similique esse doloribus nihil accusamus\nomnis dolorem fuga consequuntur reprehenderit fugit recusandae temporibus\nperspiciatis cum ut laudantium\nomnis aut molestiae vel vero"
-  },
-  {
-    "userId": 3,
-    "id": 27,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "quasi id et eos tenetur aut quo autem",
-    "body": "eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur"
-  },
-  {
-    "userId": 3,
-    "id": 28,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "delectus ullam et corporis nulla voluptas sequi",
-    "body": "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum"
-  },
-  {
-    "userId": 3,
-    "id": 29,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "iusto eius quod necessitatibus culpa ea",
-    "body": "odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores"
-  },
-  {
-    "userId": 3,
-    "id": 30,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "a quo magni similique perferendis",
-    "body": "alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia"
-  },
-  {
-    "userId": 4,
-    "id": 31,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "ullam ut quidem id aut vel consequuntur",
-    "body": "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae"
-  },
-  {
-    "userId": 4,
-    "id": 32,
-"firstName": "Louis",
-    "lastName": "Lu",
-    "email": "abctaolao@gmail.com",    
-    "job": "doloremque illum aliquid sunt",
-    "body": "deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime"
-  }  
+      "id": 9,
+      "companyName": "Công ty Sản Xuất Hạt Đều",
+      "imgUrl": "https://e7.pngegg.com/pngimages/949/939/png-clipart-flower-garden-logo-petal-flower-leaf-logo.png",
+      "position": "Nhân viên tuyển dụng",
+      "location": "Hồ Chí Minh",
+      "responsibilities": "human",
+      "qualifications": "humanyc",
+      "salary": "400.000đ/Ngày"
+  }
 ]
